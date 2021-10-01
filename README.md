@@ -6,7 +6,7 @@ This is a series of user TP-PO practice settings made for personal growth in lea
 <html>
 <body> 
   <script>
-    alert("Hi javascript");
+    alert( "Hi javascript" );
   </script>
   
 </body>
